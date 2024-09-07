@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF_assets.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="dance left0000" x="1488" y="0" width="744" height="754" frameX="-123" frameY="-78" frameWidth="1014" frameHeight="943"/>
+	<SubTexture name="dance left0001" x="0" y="0" width="744" height="754" frameX="-123" frameY="-78" frameWidth="1014" frameHeight="943"/>
+	<SubTexture name="dance right0000" x="1488" y="0" width="744" height="754" frameX="-123" frameY="-78" frameWidth="1014" frameHeight="943"/>
+	<SubTexture name="dance right0001" x="744" y="0" width="744" height="754" frameX="-123" frameY="-78" frameWidth="1014" frameHeight="943"/>
+</TextureAtlas>

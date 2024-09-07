@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BOYFRIEND.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="idle0000" x="0" y="502" width="328" height="500" frameX="-101" frameY="-69" frameWidth="538" frameHeight="633"/>
+	<SubTexture name="left0000" x="705" y="0" width="331" height="496" frameX="-99" frameY="-97" frameWidth="538" frameHeight="633"/>
+	<SubTexture name="right0000" x="1340" y="0" width="287" height="504" frameX="-136" frameY="-61" frameWidth="538" frameHeight="633"/>
+	<SubTexture name="up0000" x="358" y="0" width="347" height="499" frameX="-120" frameY="-72" frameWidth="538" frameHeight="633"/>
+	<SubTexture name="down0000" x="1036" y="0" width="304" height="519" frameX="-110" frameY="-66" frameWidth="538" frameHeight="666"/>
+	<SubTexture name="hey0000" x="0" y="0" width="358" height="502" frameX="-91" frameY="-71" frameWidth="538" frameHeight="666"/>
+</TextureAtlas>
